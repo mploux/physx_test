@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="physx_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\deps\;CMake Files\deps\glfw\;CMake Files\deps\glfw\CMake\;CMake Files\deps\glfw\CMake\modules\;CMake Files\deps\glfw\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="physx_test">
+				<Option output="/home/marc/dev/physx_test/cmake-build-debug/physx_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marc/dev/physx_test/includes"/>
+					<Add directory="/home/marc/dev/physx_test/includes/PhysX"/>
+					<Add directory="/home/marc/dev/physx_test/deps/glfw/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 physx_test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="physx_test/fast">
+				<Option output="/home/marc/dev/physx_test/cmake-build-debug/physx_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/marc/dev/physx_test/includes"/>
+					<Add directory="/home/marc/dev/physx_test/includes/PhysX"/>
+					<Add directory="/home/marc/dev/physx_test/deps/glfw/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 physx_test/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uninstall">
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/Makefile&quot;  VERBOSE=1 uninstall"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw">
+				<Option output="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/libglfw3.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/marc/dev/physx_test/deps/glfw/include"/>
+					<Add directory="/home/marc/dev/physx_test/deps/glfw/src"/>
+					<Add directory="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 glfw"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw/fast">
+				<Option output="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/libglfw3.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/marc/dev/physx_test/deps/glfw/include"/>
+					<Add directory="/home/marc/dev/physx_test/deps/glfw/src"/>
+					<Add directory="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 glfw/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marc/dev/physx_test/cmake-build-debug/deps/glfw/src/glfw_config.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/include/GLFW/glfw3.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/include/GLFW/glfw3native.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/egl_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/egl_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glx_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glx_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/input.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/internal.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/linux_joystick.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/linux_joystick.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/mappings.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/osmesa_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/osmesa_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/posix_thread.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/posix_thread.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/posix_time.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/posix_time.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/vulkan.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/x11_init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/x11_monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/x11_platform.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/x11_window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/xkb_unicode.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/xkb_unicode.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/graphics/Camera.cpp">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/graphics/Camera.h">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/main.cpp">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/scene/Scene.cpp">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/scene/Scene.h">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/scene/entities/Entity.cpp">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/scene/entities/Entity.h">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/utils/Timer.cpp">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/srcs/utils/Timer.h">
+			<Option target="physx_test"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\deps\glfw\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/cmake_uninstall.cmake.in">
+			<Option virtualFolder="CMake Files\deps\glfw\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\deps\glfw\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/cmake_uninstall.cmake.in">
+			<Option virtualFolder="CMake Files\deps\glfw\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\deps\glfw\CMake\modules\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\deps\glfw\CMake\modules\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+		<Unit filename="/home/marc/dev/physx_test/deps/glfw/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\deps\glfw\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
