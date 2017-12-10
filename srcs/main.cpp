@@ -29,7 +29,6 @@ int main()
 
 	auto lastTime = std::chrono::high_resolution_clock::now();
 
-	int i = 0;
 	while (!glfwWindowShouldClose(window))
 	{
 		auto currentTime = std::chrono::high_resolution_clock::now();

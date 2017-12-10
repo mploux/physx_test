@@ -31,5 +31,3 @@ target_link_libraries(physx_test glfw ${OPENGL_gl_LIBRARY} ${OPENGL_glu_LIBRARY}
 #
 target_link_libraries(physx_test ${PHYSX_CORE_LIB} ${PHYSX_COMMON_LIB} ${PHYSX_EXTENSION_LIB} ${PHYSX_FOUNDATION_LIB})
 target_include_directories(physx_test PUBLIC includes/ includes/PhysX)
-
-
